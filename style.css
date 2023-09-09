@@ -1,14 +1,14 @@
-<!doctype html>
-<html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>MASH GAME</title>
+<link href="normalize.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>/* Body styling */
 body {
-  background: #713e94;
-  color: #teal;
+  background: #D659B5;
+  color: #3BD2AA;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -37,7 +37,7 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px solid #000000;
   border-radius: 6px;
   color: #fff;
   cursor: pointer; 
@@ -72,7 +72,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #hotpink;
+  color: #B533D8;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -124,4 +124,4 @@ h1 {
   height: 100%;
 }
 </body>
-</html>
+
