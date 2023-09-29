@@ -1,14 +1,9 @@
-<head>
-<meta charset="utf-8">
-<title>MASH GAME</title>
-<link href="normalize.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
-</head>
 
-<body>/* Body styling */
+
+/* Body styling */
 body {
   background: #D659B5;
-  color: #3BD2AA;
+  color: #000000;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -123,5 +118,5 @@ h1 {
   opacity: 1;
   height: 100%;
 }
-</body>
+
 
